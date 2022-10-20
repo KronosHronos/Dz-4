@@ -27,3 +27,7 @@
 ![Что бы не забыть.](1.png)
 
 ![туда же](3.png)
+
+>тут могла быть ваша реклама
+
+[ну а тут ссылка на видео из ютуба](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
